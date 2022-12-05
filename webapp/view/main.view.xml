@@ -4,6 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
         <Title id="s" text="demo2 application" level="H2"></Title>
+        <Title id="s1" text="small change" level="H2"></Title>
         </content>
 
     </Page>
