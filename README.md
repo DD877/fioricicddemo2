@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# fioricicddemo2
+=======
 ## Application Details
 |               |
 | ------------- |
@@ -34,3 +37,4 @@ A Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+>>>>>>> newfeatureset2
