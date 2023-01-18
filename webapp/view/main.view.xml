@@ -2,7 +2,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
             <VBox>
-                <Title id="s" text="demo2 application" level="H2" />
+                <Title id="s" text="demo2 application on cicd" level="H2" />
                 <Title id="s1" text="small change new" level="H2" />
                 <Title id="s2" text="new change 17-01-2023" level="H2" />
             </VBox>
